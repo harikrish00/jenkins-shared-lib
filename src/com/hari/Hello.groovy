@@ -1,5 +1,7 @@
 package com.hari;
 
-def helloWorld(name){
-  echo "Hello ${name}"
+class Hello {
+  def helloWorld(name){
+    echo "Hello ${name}"
+  }  
 }
